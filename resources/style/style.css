@@ -54,7 +54,7 @@ header section {
     float: left;
     height: 400px;
     padding: 0px;
-    min-width: 500px;
+    min-width: 400px;
 }
 
 #top-background {
@@ -99,7 +99,7 @@ main div {
 #cover-shadow {
     display: block;
     width: 100%;
-    min-width: 500px;
+    min-width: 400px;
     position: absolute;
     background-color:#D7D9CE;;
     top: 400px;
@@ -139,7 +139,7 @@ h3, h4 {
 
 #orange {
     background-image: url("../../resources/media/coverbottom.jpg");
-    min-width: 500px;
+    min-width: 400px;
 }
 
 main div h1 {
@@ -155,7 +155,7 @@ main section article {
     background-color: deeppink;
     text-align: center;
     display: block;
-    min-width: 500px;
+    min-width: 400px;
 
 }
 
