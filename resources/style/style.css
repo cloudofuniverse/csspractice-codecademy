@@ -26,15 +26,15 @@ nav ul li {
     padding: 0px;
     list-style: none;
     text-align: center;
-    font-size: 14px;
+    font-size: 10px;
     opacity: 85%;
     font-family: 'Rubik Mono One', sans-serif;
 }
 
 a {
     display: block;
-    padding: 20px;
-    width: 120px;
+    padding: 15px;
+    width: 80px;
     text-decoration: none;
     color: white;
 }
@@ -45,7 +45,7 @@ a:hover {
     font-weight: lighter;
     text-align: center;
     color: white;
-    font-size: 17px;
+    font-size: 12px;
 }
 
 header section {
@@ -54,7 +54,7 @@ header section {
     float: left;
     height: 400px;
     padding: 0px;
-    min-width: 800px;
+    min-width: 500px;
 }
 
 #top-background {
@@ -75,12 +75,13 @@ header section {
 }
 
 header section h1{
-    font-size: 70px;
+    font-size: 50px;
+    width: 50px;
     text-align: justify;
-    display: inline;
+    display: block;
     position: relative;
-    top: 40%;
-    left: 40px;
+    top: 10%;
+    left: 120px;
     opacity: 85%;
     color: white;
 }
@@ -98,7 +99,7 @@ main div {
 #cover-shadow {
     display: block;
     width: 100%;
-    min-width: 800px;
+    min-width: 500px;
     position: absolute;
     background-color:#D7D9CE;;
     top: 400px;
@@ -115,12 +116,12 @@ h3, h4 {
 .description h4 {
     font-family: 'Rubik Mono One', sans-serif;
     font-weight: 300;
-    font-size: 20px;
+    font-size: 10px;
 }
 
 .description li {
     color:#D7D9CE;
-    font-size: 20px;
+    font-size: 10px;
     text-decoration: none;
     list-style:inside;
     font-family: 'Syne Mono', monospace;
@@ -138,7 +139,7 @@ h3, h4 {
 
 #orange {
     background-image: url("../../resources/media/coverbottom.jpg");
-    min-width: 800px;
+    min-width: 500px;
 }
 
 main div h1 {
@@ -154,7 +155,7 @@ main section article {
     background-color: deeppink;
     text-align: center;
     display: block;
-    min-width: 800px;
+    min-width: 500px;
 
 }
 
@@ -164,12 +165,16 @@ main section article {
     height: 100%;
     width: 60%;
     margin: 0px;
+    
 }
 
 .names h3 {
-    font-size: 50px;
+    display: block;
+    font-size: 40px;
     font-family: 'Monofett', cursive;
     font-weight: 700;
+    margin-left: 60px;
+    width: 100px;
 }
 
 #even {
@@ -191,7 +196,7 @@ main section article {
 
 img {
     border-radius: 60%;
-    width: 200px;
+    width: 120px;
 }
 
 #profp {
